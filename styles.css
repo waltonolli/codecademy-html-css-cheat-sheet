@@ -1,0 +1,40 @@
+body {
+    background-color: #EBECEE;
+    font-family: Cambria, serif;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    color: #4F1227;
+    margin-bottom: 5px;
+}
+
+.subtitle {
+    margin: 0;
+}
+
+h2{ 
+    color: #A45C75;
+}
+
+table {
+    border: 2px solid #7A304A;
+    width: 650px;
+    margin: 0 auto;
+}
+
+td {
+    border-top: 1px solid #A45C75;
+}
+
+thead {
+    background-color: #9B4361;
+    color: #EBECEE;
+}
+
+code {
+    background-color: #F9DFE8;
+}
